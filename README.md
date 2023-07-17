@@ -2,7 +2,7 @@
 
 # Sobre o projeto
 
-DSlist é uma aplicação back-end construída em uma semana na 2ª edição do **Intensivão Java Spring**, evento organizado pelo [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+DSlist é uma aplicação back-end construída em uma semana na 2ª edição do **Intensivão Java Spring**, evento organizado pelo [DevSuperior]([https://devsuperior.com](https://github.com/devsuperior) "Site da DevSuperior").
 
 A aplicação é uma aplicação Spring Boot que gerencia listas de jogos. A estrutura foi cuidadosamente projetada em camadas e inclui um banco de dados H2 e uma API.
 
